@@ -1,1 +1,1 @@
-# Forecasting-Air-New-Zealand-stock-prices
+# Forecasting average weekly Air New Zealand stock prices based on Google Search Index
